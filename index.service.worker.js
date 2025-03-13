@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1741849035|2626573053';
+const CACHE_VERSION = '1741866026|19620051359';
 /** @type {string} */
 const CACHE_PREFIX = 'Web3MobileTest-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
